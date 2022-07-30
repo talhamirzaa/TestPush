@@ -1,4 +1,5 @@
 logfile.txt
+sheet.xlsx
 *.log
 /dir/
 static/dir
